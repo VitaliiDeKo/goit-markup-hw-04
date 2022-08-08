@@ -507,6 +507,7 @@ line-height: 2.00;
 letter-spacing: 0.06em;
 color: #212121;
 margin-bottom: 4px;
+padding-left: 24px;
 }
 /*Застилізував текст в розділі 9 проектів Портфоліо*/
 .projects-text{
@@ -516,6 +517,7 @@ margin-bottom: 4px;
   line-height: 1.87;
   letter-spacing: 0.03em;
   color: #757575;
+  padding-left: 24px;
   }
 
 /*Застилізував фон навколо 9 посилань Портфоліо*/
